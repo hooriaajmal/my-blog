@@ -204,7 +204,6 @@ To add new categories:
 
 ## 👤 Author
 
-**Your Name**
 - GitHub: [@hooriaajmal](https://github.com/hooriaajmal)
 - Email: hooriaajmal9@gmail.com
 
