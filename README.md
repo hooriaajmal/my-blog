@@ -11,13 +11,13 @@ A modern, responsive personal blog built with React and Vite, featuring a clean 
 - **Modern UI**: Clean and intuitive user interface with Lucide React icons
 - **Fast Performance**: Built with Vite for optimal development and build performance
 
-## Full Page View
+## 🖥️ Full Page View
 
 ![Hero](https://github.com/hooriaajmal/my-blog/blob/main/src/assets/blog1.png)
 ![Hero2](https://github.com/hooriaajmal/my-blog/blob/main/src/assets/blog2.png)
 
 
-## Filtered by Travel
+## 🔍 Filtered by Travel
 
 ![Filtered](https://github.com/hooriaajmal/my-blog/blob/main/src/assets/blog3.png)
 
