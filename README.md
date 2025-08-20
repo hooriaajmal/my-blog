@@ -17,7 +17,7 @@ A modern, responsive personal blog built with React and Vite, featuring a clean 
 ![Hero2](https://github.com/hooriaajmal/my-blog/blob/main/src/assets/blog2.png)
 
 
-## 🔍 Filtered by Travel
+## 🔍 Filtered by Category (Travel)
 
 ![Filtered](https://github.com/hooriaajmal/my-blog/blob/main/src/assets/blog3.png)
 
