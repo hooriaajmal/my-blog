@@ -2,6 +2,11 @@
 
 A modern, responsive personal blog built with React and Vite, featuring a clean design and powerful filtering capabilities. This blog showcases articles across multiple categories including Technology, Travel, and Food.
 
+![TaskFlow](https://img.shields.io/badge/React-19.1.0-blue?logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.1.11-38B2AC?logo=tailwind-css)
+![Vite](https://img.shields.io/badge/Vite-7.0.4-646CFF?logo=vite)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 ## 🚀 Features
 
 - **Responsive Design**: Mobile-first approach with Tailwind CSS
