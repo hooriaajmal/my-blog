@@ -13,12 +13,12 @@ A modern, responsive personal blog built with React and Vite, featuring a clean 
 
 
 ![Hero](https://github.com/hooriaajmal/my-blog/blob/main/src/assets/blog1.png)
-![Hero2](./src/assets/screenshots/blog2.png)
+![Hero2](https://github.com/hooriaajmal/my-blog/blob/main/src/assets/blog2.png)
 
 
 ## Filtered by Travel
 
-![Filtered](./assets/screenshots/blog3.png)
+![Filtered](https://github.com/hooriaajmal/my-blog/blob/main/src/assets/blog3.png)
 
 
 ## 🛠️ Tech Stack
