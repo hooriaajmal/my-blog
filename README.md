@@ -12,7 +12,7 @@ A modern, responsive personal blog built with React and Vite, featuring a clean 
 - **Fast Performance**: Built with Vite for optimal development and build performance
 
 
-![Hero](.src/assets/screenshots/blog1.png)
+![Hero](https://github.com/hooriaajmal/my-blog/blob/main/src/assets/blog1.png)
 ![Hero2](./assets/screenshots/blog2.png)
 
 
